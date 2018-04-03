@@ -11,6 +11,7 @@ nexmo = "*"
 terminaltables = "*"
 click = "*"
 colorama = "*"
+fabulous = "*"
 
 
 [dev-packages]
