@@ -1,5 +1,7 @@
 # Formatting, validating, and investigating numbers with Nexmo number insight
 
+## ❗❗❗ **This repo is now deprecated. Check the [Vonage Developer Blog](https://developer.vonage.com/en/blog) for more blog posts and tutorials. For more sample Vonage projects, check the [Vonage Community GitHub repo](https://github.com/Vonage-Community).**
+
 For more details about this example code, and many others, please check the [Nexmo blog](https://www.nexmo.com/blog/category/developer/).
 
 ## Quick start
